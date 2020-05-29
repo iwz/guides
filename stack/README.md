@@ -36,7 +36,6 @@ while building applications.
 ### API
 
 * Use GraphQL as an API layer when connecting a mobile app to a web service.
-* Avoid using GraphQL when connecting from one service to another.
 
 ### Web
 
